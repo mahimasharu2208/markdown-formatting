@@ -19,6 +19,9 @@ This README is a demo of GitHub-flavored Markdown syntax, including examples of 
 - **Bold** or __Bold__
 - ***Bold and Italic***
 - ~~Strikethrough~~
+- This is a <sub>subscript</sub> text
+- This is a <sup>superscript</sup> text
+- This is an <ins>underlined</ins> text
 
 ---
 
@@ -42,9 +45,12 @@ This README is a demo of GitHub-flavored Markdown syntax, including examples of 
 
 ## Task Lists
 
-- [x] Learn Markdown basics
-- [ ] Create a GitHub repo
-- [ ] Submit the link for review
+- [x] Write a README
+- [x] Learn Markdown
+- [ ] Submit for review
+
+## Supported color models
+The background color is `#ffffff` for light mode and `#000000` for dark mode.
 
 ---
 
@@ -57,7 +63,8 @@ This README is a demo of GitHub-flavored Markdown syntax, including examples of 
 
 ### Images
 
-![Markdown Logo](https://markdown-here.com/img/icon256.png)
+![Hashicorp Logo](https://markdown-here.com/img/icon256.png)
+
 
 ---
 
