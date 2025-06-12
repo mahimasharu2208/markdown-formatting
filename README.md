@@ -63,7 +63,7 @@ The background color is `#ffffff` for light mode and `#000000` for dark mode.
 
 ### Images
 
-![Hashicorp Logo](https://markdown-here.com/img/icon256.png)
+![Hashicorp Logo](https://github.com/mahimasharu2208/markdown-formatting/main/HashiCorp_Mark.png)
 
 
 ---
