@@ -1,4 +1,4 @@
-# markdown-formatting README
+# Markdown-formatting README
 
 Welcome to this repository! 
 This README is a demo of GitHub-flavored Markdown syntax, including examples of headings, emphasis, lists, code, links, and many more.
@@ -60,11 +60,11 @@ The background color is `#ffffff` for light mode and `#000000` for dark mode.
 
 - [GitHub Docs](https://docs.github.com)
 - [Markdown Guide](https://www.markdownguide.org)
+- [Hashicorp Terraform Doc](https://developer.hashicorp.com/terraform/docs)
 
 ### Images
 
 ![Hashicorp Logo](https://github.com/mahimasharu2208/markdown-formatting/blob/main/image.png)
-
 
 ---
 
